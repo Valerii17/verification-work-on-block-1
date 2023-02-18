@@ -4,7 +4,10 @@
 
     Console.WriteLine($"Введите {m} строк: ");
     for (int i = 0; i < array.Length; i++)
+    {
+        Console.WriteLine($"Enter {i+1} rows:  ");
         array[i] = Console.ReadLine();
+    }
     return array;
 }
 int DeterminingNumberRows (string[] array)

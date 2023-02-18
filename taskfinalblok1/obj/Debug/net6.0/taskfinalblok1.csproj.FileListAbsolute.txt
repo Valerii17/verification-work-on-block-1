@@ -1,0 +1,15 @@
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\bin\Debug\net6.0\taskfinalblok1.exe
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\bin\Debug\net6.0\taskfinalblok1.deps.json
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\bin\Debug\net6.0\taskfinalblok1.runtimeconfig.json
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\bin\Debug\net6.0\taskfinalblok1.dll
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\bin\Debug\net6.0\taskfinalblok1.pdb
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.csproj.AssemblyReference.cache
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.AssemblyInfoInputs.cache
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.AssemblyInfo.cs
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.csproj.CoreCompileInputs.cache
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.dll
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\refint\taskfinalblok1.dll
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.pdb
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\taskfinalblok1.genruntimeconfig.cache
+C:\Users\vershininvv\Final workhome blok1\taskfinalblok1\obj\Debug\net6.0\ref\taskfinalblok1.dll
